@@ -1,4 +1,4 @@
-# plug-load-dataset
+# Plug Load Dataset for Office Spaces
 This repository contains the plug load dataset that was used in the paper titled "Near-Real-Time Plug Load Identification using Low Frequency Power Data in Commercial Office Buildings: Experiments and Applications". This paper was submitted on 28th April 2020 to the Journal of Applied Energy. Please cite this paper and the following data citation when using this dataset.
 
 Tekler, Zeynep; Low, Raymond (2020), “Plug Load Dataset for Office Spaces”, Mendeley Data, V2, doi: 10.17632/dnx6bc59rj.2
