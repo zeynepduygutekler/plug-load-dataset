@@ -10,4 +10,4 @@ The dataset was the result of a three-week data collection effort that was condu
 Each entry in the dataset contains four fields, including 1) the timestamp information, 2) the instantaneous power value of the connected plug load recorded up to two decimal places, 3) a unique ID indicating the smart power plug that recorded the information, and 4) the label of the corresponding plug load type that was provided post-data collection. The data was also collected with a sampling frequency of 1/60 Hz (equivalent to 1 sample every minute).
 
 This dataset has also been uploaded at the following sites:
-Mendeley Data: https://data.mendeley.com/datasets/dnx6bc59rj/2
+Mendeley Data: https://data.mendeley.com/datasets/dnx6bc59rj/3
